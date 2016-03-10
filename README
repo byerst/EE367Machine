@@ -1,0 +1,22 @@
+Name: Timothy Byers
+Date: February 25, 2016
+
+The program works for Warrior 3, Double Warrior 3,
+and Warrior 4. There is only one source code file,
+queue.c which contains all the code for the
+program.
+
+To compile on wiliki:
+	-run command: cc queue.c
+
+To run program:
+	-compile program then run a.out
+	-when input is requested, submit
+request.dat
+
+The chief engineer should choose the Warrior 4 upgrade because it yields the most
+marginal improvement of the two.
+The Marginal improvement for Warrior 4 is 5,724,800 while doubling Warrior 3 yields an
+improvement of 5,628,250.
+For this reason I would choose the upgrade to Warrior 4 assuming the amount of customers
+remains constant or imporves.
